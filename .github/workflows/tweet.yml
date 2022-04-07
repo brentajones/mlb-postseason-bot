@@ -33,7 +33,7 @@ jobs:
 
       - id: tweet
         name: Tweet
-        run: pipenv run python -m tweet cubs
+        run: pipenv run python -m tweet cardinals
         shell: bash
         env:
             TWITTER_CONSUMER_KEY: ${{ secrets.TWITTER_CONSUMER_KEY }}
