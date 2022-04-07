@@ -14,11 +14,11 @@ def cli():
 
 
 @cli.command()
-def cubs():
+def cardinals():
     """Post the latest data."""
     # Open the data
     standings = json.load(open("./data/standings.json", "r"))
-    team_standings = next(t for t in standings['205']['teams'] if t['name'] == 'Chicago Cubs')
+    team_standings = next(t for t in standings['205']['teams'] if t['name'] == 'St. Louis Cardinals')
 
     schedule = json.load(open("./data/schedule.json", "r"))
     games_left = [g for g in schedule if not hasattr(g, "win_loss_result")]
@@ -27,7 +27,7 @@ def cubs():
     projections = json.load(open("./data/fangraphs.json", "r"))
 
     # Format the message
-    message = f"""⚾🧮 @Cubs Postseason Update 🧮⚾
+    message = f"""⚾🧮 @Cardinals Postseason Update 🧮⚾
 
 {team_standings['w']} wins
 {team_standings['l']} losses
@@ -35,7 +35,7 @@ def cubs():
 {len(games_left)} games left
 {len(until_deadline)} games until the Aug. 3 trade deadline
 
-{projections['Cubs']}% chance of making the playoffs, according to @fangraphs
+{projections['Cardinals']}% chance of making the playoffs, according to @fangraphs
 """
 
     # Tweet it
