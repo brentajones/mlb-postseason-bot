@@ -36,7 +36,7 @@ def standings():
 def schedule():
     """Scrape schedules from Baseball Reference."""
     # Get the page
-    url = "https://www.baseball-reference.com/teams/CHC/2022-schedule-scores.shtml"
+    url = "https://www.baseball-reference.com/teams/SLN/2022-schedule-scores.shtml"
     r = requests.get(url)
 
     # Parse it
