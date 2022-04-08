@@ -4,7 +4,7 @@ import os
 
 import click
 from dateutil import parser as dateparse
-import twitter
+from pytwitter import Api
 
 
 @click.group
@@ -39,18 +39,14 @@ def cardinals():
 """
 
     # Tweet it
-    api = get_twitter_client()
-    status = api.PostUpdate(message)
-
-
-def get_twitter_client():
-    """Return a Twitter client ready to post to the API."""
-    return twitter.Api(
+    api = Api(
         consumer_key=os.getenv("TWITTER_CONSUMER_KEY"),
         consumer_secret=os.getenv("TWITTER_CONSUMER_SECRET"),
-        access_token_key=os.getenv("TWITTER_ACCESS_TOKEN_KEY"),
-        access_token_secret=os.getenv("TWITTER_ACCESS_TOKEN_SECRET"),
+        access_token=os.getenv("TWITTER_ACCESS_TOKEN_KEY"),
+        access_secret=os.getenv("TWITTER_ACCESS_TOKEN_SECRET")
     )
+    
+    status = api.create_tweet(text=message)
 
 
 if __name__ == "__main__":
