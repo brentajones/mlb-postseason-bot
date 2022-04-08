@@ -44,10 +44,7 @@ def cardinals():
                        access_token_secret=os.getenv("TWITTER_ACCESS_TOKEN_SECRET"))
 
     # Replace the text with whatever you want to Tweet about
-    response = client.create_tweet(text='hello world')
-
-    
-    status = api.create_tweet(text=message)
+    response = client.create_tweet(text=message)
 
 
 if __name__ == "__main__":
