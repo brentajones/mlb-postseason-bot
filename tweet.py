@@ -4,7 +4,7 @@ import os
 
 import click
 from dateutil import parser as dateparse
-from pytwitter import Api
+import tweepy
 
 
 @click.group
@@ -38,13 +38,14 @@ def cardinals():
 {projections['Cardinals']}% chance of making the playoffs, according to @fangraphs
 """
 
-    # Tweet it
-    api = Api(
-        consumer_key=os.getenv("TWITTER_CONSUMER_KEY"),
-        consumer_secret=os.getenv("TWITTER_CONSUMER_SECRET"),
-        access_token=os.getenv("TWITTER_ACCESS_TOKEN_KEY"),
-        access_secret=os.getenv("TWITTER_ACCESS_TOKEN_SECRET")
-    )
+    client = tweepy.Client(consumer_key=os.getenv("TWITTER_CONSUMER_KEY"),
+                       consumer_secret=os.getenv("TWITTER_CONSUMER_SECRET"),
+                       access_token=os.getenv("TWITTER_ACCESS_TOKEN_KEY"),
+                       access_token_secret=os.getenv("TWITTER_ACCESS_TOKEN_SECRET"))
+
+    # Replace the text with whatever you want to Tweet about
+    response = client.create_tweet(text='hello world')
+
     
     status = api.create_tweet(text=message)
 
