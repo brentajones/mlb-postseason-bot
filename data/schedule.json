@@ -102,20 +102,6 @@
   {
     "boxscore": "preview",
     "cli": "",
-    "date": "2022-04-13 00:00:00",
-    "date_game": "Wednesday, Apr 13",
-    "day_or_night": "",
-    "homeORvis": "",
-    "opp_ID": "KCR",
-    "preview": "Game Preview, and Matchups",
-    "reschedule": "",
-    "starttime": "1:15 pm",
-    "team_ID": "STL",
-    "team_game": "5"
-  },
-  {
-    "boxscore": "preview",
-    "cli": "",
     "date": "2022-04-14 00:00:00",
     "date_game": "Thursday, Apr 14",
     "day_or_night": "",
@@ -125,7 +111,7 @@
     "reschedule": "",
     "starttime": "5:14 pm",
     "team_ID": "STL",
-    "team_game": "6"
+    "team_game": "5"
   },
   {
     "boxscore": "preview",
@@ -139,7 +125,7 @@
     "reschedule": "",
     "starttime": "8:10 pm",
     "team_ID": "STL",
-    "team_game": "7"
+    "team_game": "6"
   },
   {
     "boxscore": "preview",
@@ -153,7 +139,7 @@
     "reschedule": "",
     "starttime": "7:10 pm",
     "team_ID": "STL",
-    "team_game": "8"
+    "team_game": "7"
   },
   {
     "boxscore": "preview",
@@ -167,7 +153,7 @@
     "reschedule": "",
     "starttime": "2:10 pm",
     "team_ID": "STL",
-    "team_game": "9"
+    "team_game": "8"
   },
   {
     "boxscore": "preview",
@@ -181,7 +167,7 @@
     "reschedule": "",
     "starttime": "6:40 pm",
     "team_ID": "STL",
-    "team_game": "10"
+    "team_game": "9"
   },
   {
     "boxscore": "preview",
@@ -195,7 +181,7 @@
     "reschedule": "",
     "starttime": "6:40 pm",
     "team_ID": "STL",
-    "team_game": "11"
+    "team_game": "10"
   },
   {
     "boxscore": "preview",
@@ -209,7 +195,7 @@
     "reschedule": "",
     "starttime": "6:40 pm",
     "team_ID": "STL",
-    "team_game": "12"
+    "team_game": "11"
   },
   {
     "boxscore": "preview",
@@ -223,7 +209,7 @@
     "reschedule": "",
     "starttime": "6:40 pm",
     "team_ID": "STL",
-    "team_game": "13"
+    "team_game": "12"
   },
   {
     "boxscore": "preview",
@@ -237,7 +223,7 @@
     "reschedule": "",
     "starttime": "4:10 pm",
     "team_ID": "STL",
-    "team_game": "14"
+    "team_game": "13"
   },
   {
     "boxscore": "preview",
@@ -251,7 +237,7 @@
     "reschedule": "",
     "starttime": "1:40 pm",
     "team_ID": "STL",
-    "team_game": "15"
+    "team_game": "14"
   },
   {
     "boxscore": "preview",
@@ -265,7 +251,7 @@
     "reschedule": "",
     "starttime": "7:45 pm",
     "team_ID": "STL",
-    "team_game": "16"
+    "team_game": "15"
   },
   {
     "boxscore": "preview",
@@ -279,7 +265,7 @@
     "reschedule": "",
     "starttime": "7:45 pm",
     "team_ID": "STL",
-    "team_game": "17"
+    "team_game": "16"
   },
   {
     "boxscore": "preview",
@@ -293,7 +279,7 @@
     "reschedule": "",
     "starttime": "1:15 pm",
     "team_ID": "STL",
-    "team_game": "18"
+    "team_game": "17"
   },
   {
     "boxscore": "preview",
@@ -307,7 +293,7 @@
     "reschedule": "",
     "starttime": "7:45 pm",
     "team_ID": "STL",
-    "team_game": "19"
+    "team_game": "18"
   },
   {
     "boxscore": "preview",
@@ -321,7 +307,7 @@
     "reschedule": "",
     "starttime": "8:15 pm",
     "team_ID": "STL",
-    "team_game": "20"
+    "team_game": "19"
   },
   {
     "boxscore": "preview",
@@ -335,7 +321,7 @@
     "reschedule": "",
     "starttime": "2:15 pm",
     "team_ID": "STL",
-    "team_game": "21"
+    "team_game": "20"
   },
   {
     "boxscore": "preview",
@@ -348,6 +334,20 @@
     "preview": "Game Preview, and Matchups",
     "reschedule": "",
     "starttime": "2:15 pm",
+    "team_ID": "STL",
+    "team_game": "21"
+  },
+  {
+    "boxscore": "preview",
+    "cli": "",
+    "date": "2022-05-02 00:00:00",
+    "date_game": "Monday, May 2",
+    "day_or_night": "",
+    "homeORvis": "",
+    "opp_ID": "KCR",
+    "preview": "Game Preview, and Matchups",
+    "reschedule": "",
+    "starttime": "4:15 pm",
     "team_ID": "STL",
     "team_game": "22"
   },
