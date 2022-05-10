@@ -60,16 +60,16 @@
       },
       {
         "div_rank": "5",
-        "elim_num": "125",
-        "gb": "8.0",
-        "l": 18,
+        "elim_num": "124",
+        "gb": "8.5",
+        "l": 19,
         "league_rank": "12",
         "name": "Oakland Athletics",
         "sport_rank": "24",
         "team_id": 133,
         "w": 11,
-        "wc_elim_num": "128",
-        "wc_gb": "5.5",
+        "wc_elim_num": "127",
+        "wc_gb": "6.0",
         "wc_rank": "9"
       }
     ]
@@ -211,15 +211,15 @@
       {
         "div_rank": "5",
         "elim_num": "125",
-        "gb": "9.5",
+        "gb": "9.0",
         "l": 20,
         "league_rank": "15",
         "name": "Detroit Tigers",
         "sport_rank": "29",
         "team_id": 116,
-        "w": 8,
+        "w": 9,
         "wc_elim_num": "126",
-        "wc_gb": "8.0",
+        "wc_gb": "7.5",
         "wc_rank": "12"
       }
     ]
