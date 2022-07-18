@@ -2352,20 +2352,6 @@
   {
     "boxscore": "preview",
     "cli": "",
-    "date": "2022-07-17 00:00:00",
-    "date_game": "Sunday, Jul 17",
-    "day_or_night": "",
-    "homeORvis": "",
-    "opp_ID": "CIN",
-    "preview": "Game Preview, and Matchups",
-    "reschedule": "",
-    "starttime": "2:15 pm",
-    "team_ID": "STL",
-    "team_game": "95"
-  },
-  {
-    "boxscore": "preview",
-    "cli": "",
     "date": "2022-07-22 00:00:00",
     "date_game": "Friday, Jul 22",
     "day_or_night": "",
@@ -2375,7 +2361,7 @@
     "reschedule": "",
     "starttime": "6:40 pm",
     "team_ID": "STL",
-    "team_game": "96"
+    "team_game": "95"
   },
   {
     "boxscore": "preview",
@@ -2389,7 +2375,7 @@
     "reschedule": "",
     "starttime": "6:40 pm",
     "team_ID": "STL",
-    "team_game": "97"
+    "team_game": "96"
   },
   {
     "boxscore": "preview",
@@ -2403,7 +2389,7 @@
     "reschedule": "",
     "starttime": "1:40 pm",
     "team_ID": "STL",
-    "team_game": "98"
+    "team_game": "97"
   },
   {
     "boxscore": "preview",
@@ -2417,7 +2403,7 @@
     "reschedule": "",
     "starttime": "7:07 pm",
     "team_ID": "STL",
-    "team_game": "99"
+    "team_game": "98"
   },
   {
     "boxscore": "preview",
@@ -2431,7 +2417,7 @@
     "reschedule": "",
     "starttime": "7:07 pm",
     "team_ID": "STL",
-    "team_game": "100"
+    "team_game": "99"
   },
   {
     "boxscore": "preview",
@@ -2445,7 +2431,7 @@
     "reschedule": "",
     "starttime": "7:05 pm",
     "team_ID": "STL",
-    "team_game": "101"
+    "team_game": "100"
   },
   {
     "boxscore": "preview",
@@ -2459,7 +2445,7 @@
     "reschedule": "",
     "starttime": "7:15 pm",
     "team_ID": "STL",
-    "team_game": "102"
+    "team_game": "101"
   },
   {
     "boxscore": "preview",
@@ -2473,7 +2459,7 @@
     "reschedule": "",
     "starttime": "1:35 pm",
     "team_ID": "STL",
-    "team_game": "103"
+    "team_game": "102"
   },
   {
     "boxscore": "preview",
@@ -2487,7 +2473,7 @@
     "reschedule": "",
     "starttime": "7:45 pm",
     "team_ID": "STL",
-    "team_game": "104"
+    "team_game": "103"
   },
   {
     "boxscore": "preview",
@@ -2501,7 +2487,7 @@
     "reschedule": "",
     "starttime": "7:45 pm",
     "team_ID": "STL",
-    "team_game": "105"
+    "team_game": "104"
   },
   {
     "boxscore": "preview",
@@ -2515,7 +2501,7 @@
     "reschedule": "",
     "starttime": "7:45 pm",
     "team_ID": "STL",
-    "team_game": "106"
+    "team_game": "105"
   },
   {
     "boxscore": "preview",
@@ -2529,7 +2515,7 @@
     "reschedule": "",
     "starttime": "8:15 pm",
     "team_ID": "STL",
-    "team_game": "107"
+    "team_game": "106"
   },
   {
     "boxscore": "preview",
@@ -2543,7 +2529,7 @@
     "reschedule": "",
     "starttime": "7:15 pm",
     "team_ID": "STL",
-    "team_game": "108"
+    "team_game": "107"
   },
   {
     "boxscore": "preview",
@@ -2557,7 +2543,7 @@
     "reschedule": "",
     "starttime": "2:15 pm",
     "team_ID": "STL",
-    "team_game": "109"
+    "team_game": "108"
   },
   {
     "boxscore": "preview",
@@ -2571,7 +2557,7 @@
     "reschedule": "",
     "starttime": "8:40 pm",
     "team_ID": "STL",
-    "team_game": "110"
+    "team_game": "109"
   },
   {
     "boxscore": "preview",
@@ -2585,7 +2571,7 @@
     "reschedule": "",
     "starttime": "8:40 pm",
     "team_ID": "STL",
-    "team_game": "111"
+    "team_game": "110"
   },
   {
     "boxscore": "preview",
@@ -2599,7 +2585,7 @@
     "reschedule": "",
     "starttime": "3:10 pm",
     "team_ID": "STL",
-    "team_game": "112"
+    "team_game": "111"
   },
   {
     "boxscore": "preview",
@@ -2613,7 +2599,7 @@
     "reschedule": "",
     "starttime": "8:15 pm",
     "team_ID": "STL",
-    "team_game": "113"
+    "team_game": "112"
   },
   {
     "boxscore": "preview",
@@ -2627,7 +2613,7 @@
     "reschedule": "",
     "starttime": "7:15 pm",
     "team_ID": "STL",
-    "team_game": "114"
+    "team_game": "113"
   },
   {
     "boxscore": "preview",
@@ -2641,7 +2627,7 @@
     "reschedule": "",
     "starttime": "2:15 pm",
     "team_ID": "STL",
-    "team_game": "115"
+    "team_game": "114"
   },
   {
     "boxscore": "preview",
@@ -2655,7 +2641,7 @@
     "reschedule": "",
     "starttime": "7:45 pm",
     "team_ID": "STL",
-    "team_game": "116"
+    "team_game": "115"
   },
   {
     "boxscore": "preview",
@@ -2669,7 +2655,7 @@
     "reschedule": "",
     "starttime": "7:45 pm",
     "team_ID": "STL",
-    "team_game": "117"
+    "team_game": "116"
   },
   {
     "boxscore": "preview",
@@ -2683,7 +2669,7 @@
     "reschedule": "",
     "starttime": "1:15 pm",
     "team_ID": "STL",
-    "team_game": "118"
+    "team_game": "117"
   },
   {
     "boxscore": "preview",
@@ -2697,7 +2683,7 @@
     "reschedule": "",
     "starttime": "9:40 pm",
     "team_ID": "STL",
-    "team_game": "119"
+    "team_game": "118"
   },
   {
     "boxscore": "preview",
@@ -2711,7 +2697,7 @@
     "reschedule": "",
     "starttime": "8:10 pm",
     "team_ID": "STL",
-    "team_game": "120"
+    "team_game": "119"
   },
   {
     "boxscore": "preview",
@@ -2725,7 +2711,7 @@
     "reschedule": "",
     "starttime": "4:10 pm",
     "team_ID": "STL",
-    "team_game": "121"
+    "team_game": "120"
   },
   {
     "boxscore": "preview",
@@ -2739,7 +2725,7 @@
     "reschedule": "",
     "starttime": "8:05 pm",
     "team_ID": "STL",
-    "team_game": "122"
+    "team_game": "121"
   },
   {
     "boxscore": "preview",
@@ -2753,7 +2739,7 @@
     "reschedule": "",
     "starttime": "2:20 pm",
     "team_ID": "STL",
-    "team_game": "123"
+    "team_game": "122"
   },
   {
     "boxscore": "preview",
@@ -2767,7 +2753,7 @@
     "reschedule": "",
     "starttime": "8:05 pm",
     "team_ID": "STL",
-    "team_game": "124"
+    "team_game": "123"
   },
   {
     "boxscore": "preview",
@@ -2781,7 +2767,7 @@
     "reschedule": "",
     "starttime": "8:05 pm",
     "team_ID": "STL",
-    "team_game": "125"
+    "team_game": "124"
   },
   {
     "boxscore": "preview",
@@ -2795,7 +2781,7 @@
     "reschedule": "",
     "starttime": "2:20 pm",
     "team_ID": "STL",
-    "team_game": "126"
+    "team_game": "125"
   },
   {
     "boxscore": "preview",
@@ -2809,7 +2795,7 @@
     "reschedule": "",
     "starttime": "8:15 pm",
     "team_ID": "STL",
-    "team_game": "127"
+    "team_game": "126"
   },
   {
     "boxscore": "preview",
@@ -2823,7 +2809,7 @@
     "reschedule": "",
     "starttime": "7:15 pm",
     "team_ID": "STL",
-    "team_game": "128"
+    "team_game": "127"
   },
   {
     "boxscore": "preview",
@@ -2837,7 +2823,7 @@
     "reschedule": "",
     "starttime": "2:15 pm",
     "team_ID": "STL",
-    "team_game": "129"
+    "team_game": "128"
   },
   {
     "boxscore": "preview",
@@ -2851,7 +2837,7 @@
     "reschedule": "",
     "starttime": "6:40 pm",
     "team_ID": "STL",
-    "team_game": "130"
+    "team_game": "129"
   },
   {
     "boxscore": "preview",
@@ -2865,7 +2851,7 @@
     "reschedule": "",
     "starttime": "6:40 pm",
     "team_ID": "STL",
-    "team_game": "131"
+    "team_game": "130"
   },
   {
     "boxscore": "preview",
@@ -2879,7 +2865,7 @@
     "reschedule": "",
     "starttime": "6:40 pm",
     "team_ID": "STL",
-    "team_game": "132"
+    "team_game": "131"
   },
   {
     "boxscore": "preview",
@@ -2893,7 +2879,7 @@
     "reschedule": "",
     "starttime": "8:15 pm",
     "team_ID": "STL",
-    "team_game": "133"
+    "team_game": "132"
   },
   {
     "boxscore": "preview",
@@ -2907,7 +2893,7 @@
     "reschedule": "",
     "starttime": "7:15 pm",
     "team_ID": "STL",
-    "team_game": "134"
+    "team_game": "133"
   },
   {
     "boxscore": "preview",
@@ -2921,7 +2907,7 @@
     "reschedule": "",
     "starttime": "2:15 pm",
     "team_ID": "STL",
-    "team_game": "135"
+    "team_game": "134"
   },
   {
     "boxscore": "preview",
@@ -2935,7 +2921,7 @@
     "reschedule": "",
     "starttime": "4:15 pm",
     "team_ID": "STL",
-    "team_game": "136"
+    "team_game": "135"
   },
   {
     "boxscore": "preview",
@@ -2949,7 +2935,7 @@
     "reschedule": "",
     "starttime": "7:45 pm",
     "team_ID": "STL",
-    "team_game": "137"
+    "team_game": "136"
   },
   {
     "boxscore": "preview",
@@ -2963,7 +2949,7 @@
     "reschedule": "",
     "starttime": "7:45 pm",
     "team_ID": "STL",
-    "team_game": "138"
+    "team_game": "137"
   },
   {
     "boxscore": "preview",
@@ -2977,7 +2963,7 @@
     "reschedule": "",
     "starttime": "1:15 pm",
     "team_ID": "STL",
-    "team_game": "139"
+    "team_game": "138"
   },
   {
     "boxscore": "preview",
@@ -2991,7 +2977,7 @@
     "reschedule": "",
     "starttime": "6:35 pm",
     "team_ID": "STL",
-    "team_game": "140"
+    "team_game": "139"
   },
   {
     "boxscore": "preview",
@@ -3005,7 +2991,7 @@
     "reschedule": "",
     "starttime": "7:35 pm",
     "team_ID": "STL",
-    "team_game": "141"
+    "team_game": "140"
   },
   {
     "boxscore": "preview",
@@ -3019,7 +3005,7 @@
     "reschedule": "",
     "starttime": "1:35 pm",
     "team_ID": "STL",
-    "team_game": "142"
+    "team_game": "141"
   },
   {
     "boxscore": "preview",
@@ -3033,7 +3019,7 @@
     "reschedule": "",
     "starttime": "7:45 pm",
     "team_ID": "STL",
-    "team_game": "143"
+    "team_game": "142"
   },
   {
     "boxscore": "preview",
@@ -3047,7 +3033,7 @@
     "reschedule": "",
     "starttime": "7:45 pm",
     "team_ID": "STL",
-    "team_game": "144"
+    "team_game": "143"
   },
   {
     "boxscore": "preview",
@@ -3061,7 +3047,7 @@
     "reschedule": "",
     "starttime": "7:45 pm",
     "team_ID": "STL",
-    "team_game": "145"
+    "team_game": "144"
   },
   {
     "boxscore": "preview",
@@ -3074,6 +3060,20 @@
     "preview": "Game Preview, and Matchups",
     "reschedule": "",
     "starttime": "8:15 pm",
+    "team_ID": "STL",
+    "team_game": "145"
+  },
+  {
+    "boxscore": "preview",
+    "cli": "",
+    "date": "2022-09-17 00:00:00",
+    "date_game": "Saturday, Sep 17",
+    "day_or_night": "",
+    "homeORvis": "",
+    "opp_ID": "CIN",
+    "preview": "Game Preview, and Matchups",
+    "reschedule": "",
+    "starttime": "1:15 pm",
     "team_ID": "STL",
     "team_game": "146"
   },
