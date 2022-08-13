@@ -288,14 +288,14 @@
         "elim_num": "21",
         "gb": "29.0",
         "l": 64,
-        "league_rank": "11",
+        "league_rank": "10",
         "name": "Colorado Rockies",
-        "sport_rank": "21",
+        "sport_rank": "20",
         "team_id": 115,
         "w": 51,
         "wc_elim_num": "35",
         "wc_gb": "13.0",
-        "wc_rank": "8"
+        "wc_rank": "7"
       }
     ]
   },
@@ -319,15 +319,15 @@
       {
         "div_rank": "2",
         "elim_num": "44",
-        "gb": "6.0",
+        "gb": "5.5",
         "l": 46,
         "league_rank": "3",
         "name": "Atlanta Braves",
         "sport_rank": "5",
         "team_id": 144,
-        "w": 67,
+        "w": 68,
         "wc_elim_num": "-",
-        "wc_gb": "+4.0",
+        "wc_gb": "+4.5",
         "wc_rank": "1"
       },
       {
@@ -346,17 +346,17 @@
       },
       {
         "div_rank": "4",
-        "elim_num": "28",
-        "gb": "22.5",
-        "l": 62,
-        "league_rank": "10",
+        "elim_num": "27",
+        "gb": "23.0",
+        "l": 63,
+        "league_rank": "11",
         "name": "Miami Marlins",
-        "sport_rank": "20",
+        "sport_rank": "21",
         "team_id": 146,
         "w": 50,
-        "wc_elim_num": "37",
-        "wc_gb": "12.5",
-        "wc_rank": "7"
+        "wc_elim_num": "36",
+        "wc_gb": "13.0",
+        "wc_rank": "8"
       },
       {
         "div_rank": "5",
