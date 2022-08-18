@@ -285,16 +285,16 @@
       },
       {
         "div_rank": "5",
-        "elim_num": "14",
-        "gb": "31.5",
-        "l": 68,
+        "elim_num": "13",
+        "gb": "32.0",
+        "l": 69,
         "league_rank": "11",
         "name": "Colorado Rockies",
         "sport_rank": "23",
         "team_id": 115,
         "w": 51,
-        "wc_elim_num": "29",
-        "wc_gb": "14.5",
+        "wc_elim_num": "28",
+        "wc_gb": "15.0",
         "wc_rank": "8"
       }
     ]
@@ -386,15 +386,15 @@
         "name": "St. Louis Cardinals",
         "sport_rank": "6",
         "team_id": 138,
-        "w": 65,
+        "w": 66,
         "wc_elim_num": "-",
         "wc_gb": "-",
         "wc_rank": "-"
       },
       {
         "div_rank": "2",
-        "elim_num": "44",
-        "gb": "3.0",
+        "elim_num": "43",
+        "gb": "3.5",
         "l": 54,
         "league_rank": "7",
         "name": "Milwaukee Brewers",
@@ -407,8 +407,8 @@
       },
       {
         "div_rank": "3",
-        "elim_num": "31",
-        "gb": "16.0",
+        "elim_num": "30",
+        "gb": "16.5",
         "l": 67,
         "league_rank": "12",
         "name": "Chicago Cubs",
@@ -421,8 +421,8 @@
       },
       {
         "div_rank": "4",
-        "elim_num": "28",
-        "gb": "19.0",
+        "elim_num": "27",
+        "gb": "19.5",
         "l": 70,
         "league_rank": "13",
         "name": "Cincinnati Reds",
@@ -435,8 +435,8 @@
       },
       {
         "div_rank": "5",
-        "elim_num": "26",
-        "gb": "20.5",
+        "elim_num": "25",
+        "gb": "21.0",
         "l": 72,
         "league_rank": "14",
         "name": "Pittsburgh Pirates",
