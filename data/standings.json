@@ -333,15 +333,15 @@
       {
         "div_rank": "3",
         "elim_num": "28",
-        "gb": "9.5",
+        "gb": "9.0",
         "l": 55,
         "league_rank": "5",
         "name": "Philadelphia Phillies",
         "sport_rank": "7",
         "team_id": 143,
-        "w": 70,
+        "w": 71,
         "wc_elim_num": "-",
-        "wc_gb": "+2.5",
+        "wc_gb": "+3.0",
         "wc_rank": "2"
       },
       {
@@ -435,16 +435,16 @@
       },
       {
         "div_rank": "5",
-        "elim_num": "14",
-        "gb": "24.5",
-        "l": 77,
+        "elim_num": "13",
+        "gb": "25.0",
+        "l": 78,
         "league_rank": "14",
         "name": "Pittsburgh Pirates",
         "sport_rank": "28",
         "team_id": 134,
         "w": 47,
-        "wc_elim_num": "18",
-        "wc_gb": "20.0",
+        "wc_elim_num": "17",
+        "wc_gb": "20.5",
         "wc_rank": "11"
       }
     ]
