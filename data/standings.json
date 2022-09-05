@@ -42,7 +42,7 @@
         "w": 58,
         "wc_elim_num": "15",
         "wc_gb": "15.5",
-        "wc_rank": "9"
+        "wc_rank": "8"
       },
       {
         "div_rank": "4",
@@ -56,7 +56,7 @@
         "w": 58,
         "wc_elim_num": "14",
         "wc_gb": "16.0",
-        "wc_rank": "10"
+        "wc_rank": "9"
       },
       {
         "div_rank": "5",
@@ -70,7 +70,7 @@
         "w": 50,
         "wc_elim_num": "5",
         "wc_gb": "24.5",
-        "wc_rank": "13"
+        "wc_rank": "12"
       }
     ]
   },
@@ -86,15 +86,15 @@
         "name": "New York Yankees",
         "sport_rank": "5",
         "team_id": 147,
-        "w": 80,
+        "w": 81,
         "wc_elim_num": "-",
         "wc_gb": "-",
         "wc_rank": "-"
       },
       {
         "div_rank": "2",
-        "elim_num": "25",
-        "gb": "5.0",
+        "elim_num": "24",
+        "gb": "5.5",
         "l": 58,
         "league_rank": "4",
         "name": "Tampa Bay Rays",
@@ -107,8 +107,8 @@
       },
       {
         "div_rank": "3",
-        "elim_num": "24",
-        "gb": "6.0",
+        "elim_num": "23",
+        "gb": "6.5",
         "l": 59,
         "league_rank": "5",
         "name": "Toronto Blue Jays",
@@ -121,8 +121,8 @@
       },
       {
         "div_rank": "4",
-        "elim_num": "21",
-        "gb": "8.5",
+        "elim_num": "20",
+        "gb": "9.0",
         "l": 62,
         "league_rank": "6",
         "name": "Baltimore Orioles",
@@ -135,8 +135,8 @@
       },
       {
         "div_rank": "5",
-        "elim_num": "15",
-        "gb": "13.5",
+        "elim_num": "14",
+        "gb": "14.0",
         "l": 68,
         "league_rank": "10",
         "name": "Boston Red Sox",
@@ -145,7 +145,7 @@
         "w": 67,
         "wc_elim_num": "22",
         "wc_gb": "7.5",
-        "wc_rank": "8"
+        "wc_rank": "7"
       }
     ]
   },
@@ -162,23 +162,23 @@
         "sport_rank": "14",
         "team_id": 114,
         "w": 68,
-        "wc_elim_num": "26",
-        "wc_gb": "5.0",
-        "wc_rank": "5"
+        "wc_elim_num": "-",
+        "wc_gb": "-",
+        "wc_rank": "-"
       },
       {
         "div_rank": "2",
-        "elim_num": "-",
-        "gb": "-",
-        "l": 64,
+        "elim_num": "30",
+        "gb": "0.5",
+        "l": 65,
         "league_rank": "8",
         "name": "Minnesota Twins",
         "sport_rank": "15",
         "team_id": 142,
         "w": 68,
-        "wc_elim_num": "26",
-        "wc_gb": "5.0",
-        "wc_rank": "6"
+        "wc_elim_num": "25",
+        "wc_gb": "5.5",
+        "wc_rank": "5"
       },
       {
         "div_rank": "3",
@@ -192,7 +192,7 @@
         "w": 67,
         "wc_elim_num": "23",
         "wc_gb": "7.0",
-        "wc_rank": "7"
+        "wc_rank": "6"
       },
       {
         "div_rank": "4",
@@ -206,7 +206,7 @@
         "w": 55,
         "wc_elim_num": "10",
         "wc_gb": "19.5",
-        "wc_rank": "11"
+        "wc_rank": "10"
       },
       {
         "div_rank": "5",
@@ -220,7 +220,7 @@
         "w": 51,
         "wc_elim_num": "7",
         "wc_gb": "23.0",
-        "wc_rank": "12"
+        "wc_rank": "11"
       }
     ]
   },
