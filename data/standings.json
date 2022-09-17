@@ -18,16 +18,16 @@
       },
       {
         "div_rank": "2",
-        "elim_num": "6",
-        "gb": "13.5",
-        "l": 62,
+        "elim_num": "5",
+        "gb": "14.0",
+        "l": 63,
         "league_rank": "4",
         "name": "Seattle Mariners",
         "sport_rank": "8",
         "team_id": 136,
         "w": 80,
         "wc_elim_num": "-",
-        "wc_gb": "+1.0",
+        "wc_gb": "+0.5",
         "wc_rank": "2"
       },
       {
@@ -47,15 +47,15 @@
       {
         "div_rank": "4",
         "elim_num": "E",
-        "gb": "33.0",
+        "gb": "32.5",
         "l": 82,
         "league_rank": "12",
         "name": "Los Angeles Angels",
         "sport_rank": "23",
         "team_id": 108,
-        "w": 61,
+        "w": 62,
         "wc_elim_num": "1",
-        "wc_gb": "18.5",
+        "wc_gb": "18.0",
         "wc_rank": "9"
       },
       {
@@ -236,7 +236,7 @@
         "name": "Los Angeles Dodgers",
         "sport_rank": "1",
         "team_id": 119,
-        "w": 98,
+        "w": 99,
         "wc_elim_num": "-",
         "wc_gb": "-",
         "wc_rank": "-"
@@ -244,7 +244,7 @@
       {
         "div_rank": "2",
         "elim_num": "E",
-        "gb": "20.5",
+        "gb": "21.0",
         "l": 66,
         "league_rank": "6",
         "name": "San Diego Padres",
@@ -258,21 +258,21 @@
       {
         "div_rank": "3",
         "elim_num": "E",
-        "gb": "29.5",
-        "l": 74,
+        "gb": "30.5",
+        "l": 75,
         "league_rank": "8",
         "name": "San Francisco Giants",
         "sport_rank": "18",
         "team_id": 137,
         "w": 69,
-        "wc_elim_num": "10",
-        "wc_gb": "9.0",
+        "wc_elim_num": "9",
+        "wc_gb": "9.5",
         "wc_rank": "5"
       },
       {
         "div_rank": "4",
         "elim_num": "E",
-        "gb": "31.0",
+        "gb": "31.5",
         "l": 76,
         "league_rank": "9",
         "name": "Arizona Diamondbacks",
@@ -286,7 +286,7 @@
       {
         "div_rank": "5",
         "elim_num": "E",
-        "gb": "37.0",
+        "gb": "37.5",
         "l": 82,
         "league_rank": "11",
         "name": "Colorado Rockies",
