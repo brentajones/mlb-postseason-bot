@@ -236,7 +236,7 @@
         "name": "Los Angeles Dodgers",
         "sport_rank": "1",
         "team_id": 119,
-        "w": 100,
+        "w": 101,
         "wc_elim_num": "-",
         "wc_gb": "-",
         "wc_rank": "-"
@@ -244,7 +244,7 @@
       {
         "div_rank": "2",
         "elim_num": "E",
-        "gb": "20.5",
+        "gb": "21.0",
         "l": 66,
         "league_rank": "5",
         "name": "San Diego Padres",
@@ -258,21 +258,21 @@
       {
         "div_rank": "3",
         "elim_num": "E",
-        "gb": "31.5",
-        "l": 76,
+        "gb": "32.5",
+        "l": 77,
         "league_rank": "8",
         "name": "San Francisco Giants",
         "sport_rank": "18",
         "team_id": 137,
         "w": 69,
-        "wc_elim_num": "7",
-        "wc_gb": "10.5",
+        "wc_elim_num": "6",
+        "wc_gb": "11.0",
         "wc_rank": "5"
       },
       {
         "div_rank": "4",
         "elim_num": "E",
-        "gb": "33.0",
+        "gb": "33.5",
         "l": 78,
         "league_rank": "9",
         "name": "Arizona Diamondbacks",
@@ -286,7 +286,7 @@
       {
         "div_rank": "5",
         "elim_num": "E",
-        "gb": "37.0",
+        "gb": "37.5",
         "l": 82,
         "league_rank": "10",
         "name": "Colorado Rockies",
