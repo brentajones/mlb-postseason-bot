@@ -318,16 +318,16 @@
       },
       {
         "div_rank": "2",
-        "elim_num": "13",
-        "gb": "1.0",
-        "l": 55,
+        "elim_num": "12",
+        "gb": "1.5",
+        "l": 56,
         "league_rank": "3",
         "name": "Atlanta Braves",
         "sport_rank": "4",
         "team_id": 144,
         "w": 93,
         "wc_elim_num": "-",
-        "wc_gb": "+12.5",
+        "wc_gb": "+12.0",
         "wc_rank": "1"
       },
       {
@@ -361,15 +361,15 @@
       {
         "div_rank": "5",
         "elim_num": "E",
-        "gb": "43.0",
+        "gb": "42.5",
         "l": 97,
         "league_rank": "15",
         "name": "Washington Nationals",
         "sport_rank": "30",
         "team_id": 120,
-        "w": 51,
+        "w": 52,
         "wc_elim_num": "E",
-        "wc_gb": "29.5",
+        "wc_gb": "29.0",
         "wc_rank": "12"
       }
     ]
