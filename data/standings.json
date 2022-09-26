@@ -86,15 +86,15 @@
         "name": "New York Yankees",
         "sport_rank": "5",
         "team_id": 147,
-        "w": 93,
+        "w": 94,
         "wc_elim_num": "-",
         "wc_gb": "-",
         "wc_rank": "-"
       },
       {
         "div_rank": "2",
-        "elim_num": "3",
-        "gb": "8.0",
+        "elim_num": "2",
+        "gb": "8.5",
         "l": 67,
         "league_rank": "4",
         "name": "Toronto Blue Jays",
@@ -107,8 +107,8 @@
       },
       {
         "div_rank": "3",
-        "elim_num": "1",
-        "gb": "10.0",
+        "elim_num": "E",
+        "gb": "10.5",
         "l": 69,
         "league_rank": "5",
         "name": "Tampa Bay Rays",
@@ -122,7 +122,7 @@
       {
         "div_rank": "4",
         "elim_num": "E",
-        "gb": "14.5",
+        "gb": "15.0",
         "l": 73,
         "league_rank": "7",
         "name": "Baltimore Orioles",
@@ -136,15 +136,15 @@
       {
         "div_rank": "5",
         "elim_num": "E",
-        "gb": "21.0",
-        "l": 79,
+        "gb": "22.0",
+        "l": 80,
         "league_rank": "10",
         "name": "Boston Red Sox",
         "sport_rank": "18",
         "team_id": 111,
         "w": 72,
-        "wc_elim_num": "1",
-        "wc_gb": "10.5",
+        "wc_elim_num": "E",
+        "wc_gb": "11.0",
         "wc_rank": "7"
       }
     ]
