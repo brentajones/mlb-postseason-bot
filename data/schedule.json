@@ -4025,18 +4025,29 @@
     "winning_pitcher": "Stratton"
   },
   {
-    "boxscore": "preview",
-    "cli": "",
+    "R": "3",
+    "RA": "5",
+    "attendance": "15,319",
+    "boxscore": "boxscore",
+    "cli": ".01",
     "date": "2022-10-05 00:00:00",
     "date_game": "Wednesday, Oct 5",
-    "day_or_night": "",
+    "day_or_night": "D",
+    "extra_innings": "",
+    "games_back": "up 7.0",
     "homeORvis": "@",
+    "losing_pitcher": "Liberatore",
     "opp_ID": "PIT",
-    "preview": "Game Preview, and Matchups",
+    "rank": "1",
     "reschedule": "",
-    "starttime": "4:05 pm",
+    "saving_pitcher": "Ramirez",
     "team_ID": "STL",
-    "team_game": "162"
+    "team_game": "162",
+    "time_of_game": "2:42",
+    "win_loss_record": "93-69",
+    "win_loss_result": "L",
+    "win_loss_streak": "-",
+    "winning_pitcher": "Banuelos"
   },
   {
     "boxscore": "preview",
@@ -4048,7 +4059,7 @@
     "opp_ID": "PHI",
     "preview": "Game Preview, and Matchups",
     "reschedule": "",
-    "starttime": "TBD",
+    "starttime": "2:07 pm",
     "team_ID": "STL",
     "team_game": "163"
   },
@@ -4062,7 +4073,7 @@
     "opp_ID": "PHI",
     "preview": "Game Preview, and Matchups",
     "reschedule": "",
-    "starttime": "TBD",
+    "starttime": "8:37 pm",
     "team_ID": "STL",
     "team_game": "164"
   },
@@ -4076,7 +4087,7 @@
     "opp_ID": "PHI",
     "preview": "Game Preview, and Matchups",
     "reschedule": "",
-    "starttime": "TBD",
+    "starttime": "8:37 pm",
     "team_ID": "STL",
     "team_game": "165"
   }
